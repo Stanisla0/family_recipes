@@ -1,4 +1,4 @@
-#  Hecker's Family enigmatic  recipes!
+#  Hecker's Family trash recipes!
 
 Set of recipes asa given by my grandama.
 
