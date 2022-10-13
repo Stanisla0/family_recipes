@@ -1,4 +1,4 @@
-# Grodek's Family secret recipes!
+#  Hecker's Family secret recipes!
 
 Set of recipes asa given by my grandama.
 
